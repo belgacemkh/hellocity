@@ -4,7 +4,7 @@
 
 
 @section('content')
-
+<img src="/images/programmer.png" alt="Belgacem Khadher">
     <p>Built with &hearts; by Belgacem Khadher.</p>
     <p><a href="{{route('app_home')}}">Revenir à la page d'accueil</a></p>
 
