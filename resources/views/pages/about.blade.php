@@ -1,6 +1,6 @@
 @extends('base')
 
-@section('title','About Us | Helllo City')
+@section('title','About Us | '.config('app.name'))
 
 
 @section('content')
